@@ -1,2 +1,2 @@
-# PHP-SEARCH
-with this repo you can search anything in your database
+# PHP-Search
+with this repo you can search anything in your database.
